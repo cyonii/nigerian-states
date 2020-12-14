@@ -1,6 +1,7 @@
 [
     {
         "name": "Abia",
+        "short_name": "AB",
         "capital": "Umuahia",
         "local_governments": [
             "Aba North",
@@ -24,6 +25,7 @@
     },
     {
         "name": "Adamawa",
+        "short_name": "AD",
         "capital": "Yola",
         "local_governments":[
             "Demsa",
@@ -51,6 +53,7 @@
     },
     {
         "name": "Anambra",
+        "short_name": "AN",
         "capital": "Awka",
         "local_governments":[
             "Aguata",
@@ -78,6 +81,7 @@
     },
     {
         "name": "Akwa Ibom",
+        "short_name": "AK",
         "capital": "Uyo",
         "local_governments":[
             "Abak",
@@ -115,6 +119,7 @@
     },
     {
         "name": "Bauchi",
+        "short_name": "BA",
         "capital": "Bauchi",
         "local_governments":[
             "Bauchi",
@@ -141,6 +146,7 @@
     },
     {
         "name": "Bayelsa",
+        "short_name": "BY",
         "capital": "Yenegoa",
         "local_governments":[
             "Brass",
@@ -155,6 +161,7 @@
     },
     {
         "name": "Benue",
+        "short_name": "BE",
         "capital": "Markudi",
         "local_governments":[
             "Ado",
@@ -184,6 +191,7 @@
     },
     {
         "name": "Borno",
+        "short_name": "BO",
         "capital": "Maiduguri",
         "local_governments":[
             "Abadan",
@@ -216,6 +224,7 @@
     },
     {
         "name": "Cross River",
+        "short_name": "CR",
         "capital": "Calabar",
         "local_governments":[
             "Abi",
@@ -240,6 +249,7 @@
     },
     {
         "name": "Delta",
+        "short_name": "DE",
         "capital": "Asaba",
         "local_governments":[
             "Aniocha South",
@@ -271,6 +281,7 @@
     },
     {
         "name": "Ebonyi",
+        "short_name": "EB",
         "capital": "Abakaliki",
         "local_governments":[
             "Abakaliki",
@@ -290,6 +301,7 @@
     },
     {
         "name": "Edo",
+        "short_name": "ED",
         "capital": "Benin City",
         "local_governments":[
             "Akoko-Edo",
@@ -314,6 +326,7 @@
     },
     {
         "name": "Ekiti",
+        "short_name": "EK",
         "capital": "Ado Ekiti",
         "local_governments":[
             "Ado-Ekiti",
@@ -336,6 +349,7 @@
     },
     {
         "name": "Enugu",
+        "short_name": "EN",
         "capital": "Enugu",
         "local_governments":[
             "Aninri",
@@ -359,6 +373,7 @@
     },
     {
         "name": "Gombe",
+        "short_name": "GO",
         "capital": "Gombe",
         "local_governments":[
             "Akko",
@@ -376,6 +391,7 @@
     },
     {
         "name": "Imo",
+        "short_name": "IM",
         "capital": "Owerri",
         "local_governments":[
             "Aboh Mbaise",
@@ -409,6 +425,7 @@
     },
     {
         "name": "Jigawa",
+        "short_name": "JI",
         "capital": "Dutse",
         "local_governments":[
             "Auyo",
@@ -442,6 +459,7 @@
     },
     {
         "name": "Kaduna",
+        "short_name": "KD",
         "capital": "Kaduna",
         "local_governments":[
             "Birnin Gwari",
@@ -471,6 +489,7 @@
     },
     {
         "name": "Kano",
+        "short_name": "KN",
         "capital": "Kano",
         "local_governments":[
             "Ajingi",
@@ -521,6 +540,7 @@
     },
     {
         "name": "Kastina",
+        "short_name": "KT",
         "capital": "Katsina",
         "local_governments":[
             "Bakori",
@@ -561,6 +581,7 @@
     },
     {
         "name": "Kebbi",
+        "short_name": "KE",
         "capital": "Birnin Kebbi",
         "local_governments":[
             "Aleiro",
@@ -588,6 +609,7 @@
     },
     {
         "name":"Kogi",
+        "short_name": "KO",
         "capital": "Lokoja",
         "local_governments":[
             "Adavi",
@@ -615,6 +637,7 @@
     },
     {
         "name": "Kwara",
+        "short_name": "KW",
         "capital": "Ilorin",
         "local_governments":[
             "Asa",
@@ -637,6 +660,7 @@
     },
     {
         "name": "Lagos",
+        "short_name": "LA",
         "capital": "Ikeja",
         "local_governments":[
             "Agege",
@@ -663,6 +687,7 @@
     },
     {
         "name": "Nassarawa",
+        "short_name": "NA",
         "capital": "Lafia",
         "local_governments":[
             "Akwanga",
@@ -682,6 +707,7 @@
     },
     {
         "name": "Niger",
+        "short_name": "NI",
         "capital": "Minna",
         "local_governments":[
             "Agaie",
@@ -713,6 +739,7 @@
     },
     {
         "name":"Ogun",
+        "short_name": "OG",
         "capital": "Abeokuta",
         "local_governments":[
             "Abeokuta North",
@@ -739,6 +766,7 @@
     },
     {
         "name":"Ondo",
+        "short_name": "ON",
         "capital": "Akure",
         "local_governments":[
             "Akoko North",
@@ -763,6 +791,7 @@
     },
     {
         "name":"Osun",
+        "short_name": "OS",
         "capital": "Osogbo",
         "local_governments":[
             "Atakumosa West",
@@ -799,6 +828,7 @@
     },
     {
         "name": "Oyo",
+        "short_name": "OY",
         "capital": "Ibadan",
         "local_governments":[
             "Akinyele",
@@ -838,6 +868,7 @@
     },
     {
         "name":"Plateau",
+        "short_name": "PL",
         "capital": "Jos",
         "local_governments":[
             "Barkin Ladi",
@@ -861,6 +892,7 @@
     },
     {
         "name": "Rivers",
+        "short_name": "RI",
         "capital": "Port Harcourt",
         "local_governments":[
             "Abua-Odual",
@@ -890,6 +922,7 @@
     },
     {
         "name":"Sokoto",
+        "short_name": "SO",
         "capital": "Sokoto",
         "local_governments":[
             "Binji",
@@ -919,6 +952,7 @@
     },
     {
         "name":"Taraba",
+        "short_name": "TA",
         "capital": "Jalingo",
         "local_governments":[
             "Ardo Kola",
@@ -941,6 +975,7 @@
     },
     {
         "name":"Yobe",
+        "short_name": "YO",
         "capital": "Damaturu",
         "local_governments":[
             "Bade",
@@ -964,6 +999,7 @@
     },
     {
         "name":"Zamfara",
+        "short_name": "ZA",
         "capital": "Gusau",
         "local_governments":[
             "Anka",
@@ -984,6 +1020,7 @@
     },
     {
         "name":"F.C.T",
+        "short_name": "FC",
         "capital": "Abuja",
         "local_governments":[
             "Abaji",
